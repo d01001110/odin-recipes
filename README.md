@@ -20,7 +20,7 @@ This is a recipe website that showcases various recipes using HTML.
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 
 2. Open the `index.html` file in your preferred web browser.
 
