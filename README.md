@@ -1,7 +1,5 @@
 # Recipe Website
 
-This is a recipe website that showcases various recipes using HTML.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -13,7 +11,7 @@ This is a recipe website that showcases various recipes using HTML.
 
 ## Introduction
 
-This project is designed to demonstrate the use of HTML by showcasing a collection of recipes. Users can browse through the recipes, and view detailed instructions and ingredients
+This is a recipe website that showcases various recipes using HTML.
 
 ## Features
 
